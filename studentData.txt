@@ -1,0 +1,8 @@
+102,seema,Pune,6745899911,computer,{'computer networks': 'A'}
+103,snehal,pune,45567,computer science,{'compiler Design':'A+','operating system':'c'}
+104,preet,jalgaon,56789,computer science,{'Data visulalization': 'A'}
+105,ajit,solapur,7890,computer science,{'Blockchain': 'A+'}
+106,kavish,chandrapur,456783,computer science,{'Social Networks': 'B+'}
+107,girish,nagpur,67890,computer science,{'Parallel Computing': 'A'}
+108,shreya,pune,12345,computer science,{'SEPM': 'A'}
+109,Divya,Pune,27251718898,Information Technology,{'CAO': 'B+'}
